@@ -1,4 +1,14 @@
-# Hi, I'm Vicky 👋
+# Hi, I'm Vicky
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-darkred?style=for-the-badge)
+![Red Team](https://img.shields.io/badge/Red_Team-black?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-darkgreen?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-0080ff?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-005f99?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-darkblue?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-grey?style=for-the-badge)
+![CTF Player](https://img.shields.io/badge/CTF_Player-purple?style=for-the-badge)
 
 💻 Cybersecurity Enthusiast | Aspiring Red Teamer | BTech Cybersecurity Student
 
