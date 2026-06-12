@@ -24,17 +24,44 @@
 ![SQLMap](https://img.shields.io/badge/SQLMap-blue?style=for-the-badge)
 
 
+## 🐧 Platforms
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge)
+
+
+## 💻 Automation & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
-![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+
+## ⚡ Learning Goals
+
+- SOC Analyst (L1 → L2 → L3)
+- SIEM & Log Analysis
+- Threat Hunting
+- Active Directory Security
+- Red Team Methodologies
+- Malware Analysis Fundamentals
+- CEH Certification
+
+
+## 📊 GitHub Stats
+
+![Vicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CipherVicky&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherVicky&layout=compact&theme=tokyonight)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/CipherVicky/CipherVicky/blob/output/github-contribution-grid-snake.svg)
+
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/CipherVicky)
