@@ -50,12 +50,6 @@
 - CEH Certification
 
 
-## 📊 GitHub Stats
-
-![Vicky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CipherVicky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CipherVicky&layout=compact&theme=tokyonight)
-
 
 ## 🐍 Contribution Snake
 
