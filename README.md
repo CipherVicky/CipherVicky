@@ -8,7 +8,9 @@
 
 🚩 Learning by building labs, solving CTFs, and practicing real-world attack simulations.
 
-🛠️ Future CEH Certified Professional focused on practical security skills and continuous learning.
+🛠️ Focused on practical security skills and continuous learning.
+
+💻 Aspiring SOC Analyst | Pentesting Enthusiast | Network Security Learner
 
 
 ## 🛠️ Security Tools
@@ -62,6 +64,5 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/samvivek-bura)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/CipherVicky)
