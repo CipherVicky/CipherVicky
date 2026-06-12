@@ -11,6 +11,20 @@
 🛠️ Future CEH Certified Professional focused on practical security skills and continuous learning.
 
 
+## 🛠️ Security Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-darkgreen?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-red?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-orange?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-blue?style=for-the-badge)
+
+
+
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
